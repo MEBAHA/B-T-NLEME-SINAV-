@@ -1,0 +1,81 @@
+document_id,content
+doc001,motor aşır ısınma hatas tespit edil soğutma siste yetersiz çalışıyor fan devre girmiyor termostat değer limit üzer seyrediyor
+doc002,pompa basınç düşüş alarmı aktiv ol giriş valfı kısme tıkal akış debis beklene değer alt kalıyor
+doc003,elektrik motor faz dengesizlik hatas faz bir geril değer normal yüz yirmi alt ölçül
+doc004,hidrolik siste sızıntıs tespit edil sil contas yıpra yağ kaybı dakika beş mililitre düzey
+doc005,konveyör bant kaymas alarm kodu oluş bant gerginlik yetersiz tahrik silindir kayıyor
+doc006,plc haberleşme hatas kontrol ünites sah cihaz aras modbus bağlantıs zama aşım uğradı
+doc007,kompresör yağ basıncı düşük alarm ver yağ pompas ver düş yağ filtres tıka dur
+doc008,isı değiştiriç tıkanma hatas boru iç kireç birik oluş ıs transfer ver yüz kırk düş
+doc009,redüktör dişli aşınma uyarıs titreş sensör anormal değer gösteriyor yağ analiz metal parçacık tespit edil
+doc010,fır sıcaklık kontrol hatas pid kontrol döngüs kararsız çalışıyor sıcaklık set değer etraf sal yapıyor
+doc011,vak pompas basınç yetersizlik hatas co sızıntıs neden istene vak seviye ulaşılamıyor
+doc012,servo motor pozisyo hatas alarm kodu enkoder sinyal bozuluyor ger besle değer tutarsız
+doc013,soğutma kules fan motor arızas motor rulman aş motor gövde anormal titreş hissediliyor
+doc014,bo fır egzoz fa devir düşüklük frekans inverter çıkış geril düşük motor nominal devir çalışamıyor
+doc015,şanzıma yağ sevi düşük uyarıs yağ tahli tapas sızdırıyor yağ seviyes minim limit alt in
+doc016,pnömatik siste hav kaçak alarmı bor bağla nokta basınç kaybı oluyor kompresör sürekli devre
+doc017,cnc tezgah ek sürüç hatas ekse servo sürücüs aşır ak korumas devre gir
+doc018,kaza seviyes kritik düşük alarm besle su pompas yeterli dep sağlayamıyor kaza ısıtma devre dış kal
+doc019,jeneratör voltaj regülatör arızas çıkış geril set değer sapıyor yük alt voltaj dalgalanmas artıyor
+doc020,enjeksiyo makines plastik sıcaklık sapmas vida bölge ısıtıcıs arızal er sıcaklık istene değer ulaşmıyor
+doc021,soğuk depo kompresör yük basınç kesme alarmı kondenser serpant kirli yoğuşma basıncı limit üzer çık
+doc022,paketle makines fotosell ha kodu ür algıla sensör kirli yanlış hizala kon
+doc023,kaynak makines ark hatas elektrot tel beslemes düzensiz kaynak parametre kararsız seyrediyor
+doc024,bant tester kesme sapmas alarm kodu tester bıçak yorulma çatlak neden yön tutmuyor
+doc025,endüksiyo ocak güç modül hatas igbt transistör grup aşır ıs termal kor devre gir
+doc026,robot kol ekle hareket sınır aşıl altıncı ek açısal limit değer geç acil durdurma aktif ol
+doc027,santrifüj pompa kavitasyo uyarıs giriş basıncı düşük pompa iç baloncuk oluş başladı
+doc028,hav soğutmal chil devre dış kal soğutuç akışka seviyes düşük sızdırmazlık tes başarıs
+doc029,talaş makines tak kırılma algıla hatas kesiç tak ömrü dol yüzey pürüzlülük tolerans dış çık
+doc030,vidal kompresör yağ ayırıç tıkanma hatas diferansiyel basınç sensör limit üzer değer gösteriyor
+doc031,elektrik panos aşır ıs alarmı soğutma fa arızal kap sıcaklık kırk beş dereç üzer çık
+doc032,hassas terazi kalibrasyo hatas loadcell sinyal sürükleniyor ölç tekrarlanabilirlik bozul
+doc033,dol makines haç ölç sapmas akış ölçer sensör kirli gerçek dol miktar hedef değer sapıyor
+doc034,tünel pastörizatör sıcaklık homojenlik bozulmas or bölge ısıtıcı yetersiz çalışıyor ür sıcaklık dağıl eşit değil
+doc035,rulma aşınma izle siste uyarıs titreş spektrum rulma hasar özgü frekans bileşen tespit edil
+doc036,kesintis güç kaynak batarya düşük kapasites uyarıs batarya hücre yaşla şarj kapasites nominal değer alt in
+doc037,frekans invertör motor parametres uyumsuzluk motor nominal değer inverter programlama eşleşmiyor
+doc038,paletle robot emiş kupas basınç kaybı vak jeneratör arızal ür kavra sıra düşme ola yaşa
+doc039,arıtma siste membra tıkanma hatas ters osmoz membra kirle geçirgenlik katsayıs düş
+doc040,vinç taş yük aş alarmı yük hücres nominal kapasite faz değer ölçtü kaldırma hareket bloke edil
+doc041,motor fırça aşınma uyarıs kolektör yüze pürüzle fırça temas düzensizleş
+doc042,batarya şarj kontrol ünites ha kodu şarj ak aş tespit edil kor devres aktiv ol
+doc043,gaz dedektör alarm seviyes aş orta hidroje sülfür konsantrasyo eşik değer geç
+doc044,basınçlı hav kurutucus çiğlenme noktas sapmas adsorba doy ulaş çıkış havas ne yüksel
+doc045,lazer kes makines odak noktas kaymas lens kirlilik neden kes kalites bozul malze yanma iz arttı
+doc046,otoklav sterilizasyo döngüs tamamlanamadı kapak sızdırmazlık yetersiz basınç tutma süres dolma düş
+doc047,soğutma su iletkenlik yük alarm siste mineral birik arttı boru korozyo riski alt
+doc048,pres makine alt öl nok ayar ka koç pozisyo enkoder hatal değer veriyor ür boyut tolerans dış
+doc049,doldurma istasyo kütlesel akış ölçer sıfır kaymas ölç doğruluk bozul dol ağırlık tekrarlanabilirlik azal
+doc050,ekstrüder vida hız kararsızlık tahrik motor moment dalgalanmas yaşıyor ür kalınlık tutarsız çıkıyor
+doc051,döner fır tahrik dişlis aşınma alarmı dişli boşluk artmış titreş ölç değer normale gör ik kat yük
+doc052,numune alma siste valf sıkışmas hatas pnömatik aktüatör hav kaçak neden tam kon gelemiyor
+doc053,elektrostatik bo tabancas yük voltaj hatas yük geril üreteç arızal atomizasyo kalites bozul
+doc054,hareket kontrol siste takip hatas aş profil oluşturuç servo sürüç ara senkronizasyo bozul
+doc055,santrifüj seperatör dengesizlik alarmı rotor iç malze dağıl bozul titreş ivme değer kritik
+doc056,soğuk şekillendirme pres yağ sıcaklık yük hatas soğutma devres kapasites yetersiz yağ viskozites düşüyor
+doc057,enerji analizör ölç hatas ak trafos bağlantıs gevşemiş güç faktör ölç gerçek değer yansıtmıyor
+doc058,yazıç kaf temizle siste tıkanma alarmı mürekkep besle hatt hav balo oluş baskı kalites bozul
+doc059,pnömatik tornavi tork sensör kalibrasyo bozul ölç değer referans değer sapıyor sıkma torku yetersiz
+doc060,çelik ısıl işle fır atmosfer kontrolü arızas koruyuç gaz akış kesil parça yüze oksitlenme riski alt
+doc061,yük basınç jet pompas salmastra sızıntıs salmastra grup aş pompa ver düş
+doc062,karıştırıç tahrik dişli kutus titreş alarmı helisel dişli pittingi hasar başladı gürül seviyes arttı
+doc063,enerji depola siste hücre voltaj dengesizlik hücre diğer hızlı deşarj oluyor bms alarm üretiyor
+doc064,plastik enjeksiyo kalıp sıcaklık düzensizlik kanal tıkal kalıp iç sıcaklık dağıl homoje değil
+doc065,taşla tezgah taş dengele hatas taşla diski dinamik dengesizlik gösteriyor mil titreş artıyor
+doc066,ultrasonik temizle cihaz frekans kaymas transdüser bağlantıs gevşemiş kavitasyo yoğunluk yetersiz
+doc067,akıllı va aktüatör iletiş hatas hart protokolü üzer cihaz ulaşılamıyor manuel müdahal gerekiyor
+doc068,hav kompresör emme filtres tıkanma uyarıs diferansiyel basınç değer bak eşik aş kompresör ver düşüyor
+doc069,manyetik separatör güç kaynak arızas elektromıknatıs sargıs kıs devre yap ayırma verimlilik sıfır in
+doc070,plastik film sar makines geril kontrolü hatas dans silindir pozisyo sensör arızal bant geril dalgalanıyor
+doc071,buharlı jeneratör yakıt enjeksiyo valfi sıkışmas enjektör memes kirli yanma ora opt değer alt
+doc072,elektronik pano nem sensör alarm eşik aş yoğuşma riski oluş kritik bileşen nem hasar görebilir
+doc073,otomatik yağla siste pompa basınç düşüklük merkez yağla hatt tıkanma yağla nokta yetersiz yağ alıyor
+doc074,plazma kes ünites plazma gaz basınç hatas gaz regülatör arızal kes arkı istikrarsız yanıyor
+doc075,hassas ısıl işle fır atmosfer nem kontrolü sapmas çiğlenme noktas sensör kirli nem değer hatal ölçülüyor
+doc076,yük hızlı paketle makines senkronizasyo hatas kamer siste ür pozisyon yanlış algılıyor paket kaçak oluyor
+doc077,soğutma sistem soğutuç gaz sızdırma alarmı sızdırmazlık kaybı neden soğutma kapasites belirgi şekil düş
+doc078,çift vidal ekstrüder meltingi zone sıcaklık aş vida sürtünme ısıs dengele siste taraf giderilemiyor
+doc079,hassas enjeksiyo dozaj siste tıkanma hatas pompa eleman aş dep tekrarlanabilirlik bozul
+doc080,şebek bağlantıl invertör izolasyo direnci düşük alarmı bar toprak ara direnç değer minim limit alt in
