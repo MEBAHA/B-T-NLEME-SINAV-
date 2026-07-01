@@ -9,7 +9,7 @@ def code(src, id_=""):
     return {"cell_type":"code","metadata":{},"source":src,"outputs":[],"execution_count":None,"id": id_ or "co"+str(abs(hash(src)))[:6]}
 
 cells = [
-md("# 📋 NLP Final Ödev-2 — 01: Veri Ön İşleme\n\n**Proje:** Endüstriyel Arıza Kodları Eşleştirme\n\n**Grup:** Mario Enrique Motede Dasilva, Heriberto Fernandez Chale, Matias Fernando Ndong Owono Obiang\n\nBu notebook ham arıza kodu verilerini yükleyip Türkçe NLP ön işleme adımlarını uygular ve `lemmatized.csv` ile `stemmed.csv` çıktı dosyalarını üretir.","md_title"),
+md("# 📋 NLP Final Ödev-2 — 01: Veri Ön İşleme\n\n**Proje:** Endüstriyel Arıza Kodları Eşleştirme\n\n**Grup:** Rodolfo Mba NDONG MEBAHA\n\nBu notebook ham arıza kodu verilerini yükleyip Türkçe NLP ön işleme adımlarını uygular ve `lemmatized.csv` ile `stemmed.csv` çıktı dosyalarını üretir.","md_title"),
 
 md("## 1. Kütüphane Kurulumu ve İçe Aktarma","md_01"),
 code("# Gerekli kütüphaneleri kur (ilk çalıştırmada)\n# !pip install gensim zeyrek snowballstemmer nltk pandas\n\nimport pandas as pd\nimport re\nimport nltk\nimport zeyrek\nimport snowballstemmer\nfrom nltk.corpus import stopwords\nfrom nltk.tokenize import word_tokenize\n\nnltk.download('punkt_tab', quiet=True)\nnltk.download('stopwords', quiet=True)\n\nprint('Tum kutuphaneler yuklendi.')","c01"),
